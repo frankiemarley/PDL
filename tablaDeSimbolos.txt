@@ -1,0 +1,22 @@
+TABLA PRINCIPAL #1:
+* LEXEMA: 'a'
+	 ATRIBUTOS: 
+	 +despl: 2
+	 +tipo: 'int'
+	-------------------------------
+* LEXEMA: 'b'
+	 ATRIBUTOS: 
+	 +despl: 6
+	 +tipo: 'int'
+	-------------------------------
+* LEXEMA: 'bbb'
+	 ATRIBUTOS: 
+	 +despl: 10
+	 +tipo: 'boolean'
+	-------------------------------
+* LEXEMA: 'c'
+	 ATRIBUTOS: 
+	 +despl: 16
+	 +tipo: 'boolean'
+	-------------------------------
+
